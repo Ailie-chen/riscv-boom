@@ -1,0 +1,14 @@
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/uart.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimUART.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimUART.v
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/mm_dramsim2.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/mm.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimDRAM.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimDRAM.v
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/testchip_tsi.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimSerial.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimSerial.v
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/plusarg_reader.v
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/remote_bitbang.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimJTAG.cc
+/root/chipyard/sims/verilator/generated-src/chipyard.TestHarness.SmallBoomConfig/SimJTAG.v
